@@ -1,1 +1,25 @@
-
+[
+  {
+    "postId": 1,
+    "avatar": "default_avatar.png",
+    "date": "Aug 19,2021 15:00",
+    "text": "Hiiumaa... Dagö... the second largest island in Estonia",
+    "thumbUp": "thumb_up.png"
+  },
+  {
+    "postId": 2,
+    "avatar": "default_avatar.png",
+    "date": "Aug 19,2021 15:30",
+    "photo": "Kassari sääretirp.jpg",
+    "text": "Hiiumaa: Kassari sääretirp",
+    "thumbUp": "thumb_up.png"
+  },
+  {
+    "postId": 3,
+    "avatar": "default_avatar.png",
+    "date":"Aug 19,2021 15:59",
+    "photo": "Kassari.jpg",
+    "text": "Hiiumaa: Kassari",
+    "thumbUp":"thumb_up.png"
+  }
+]

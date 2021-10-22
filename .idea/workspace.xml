@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d15f3307-657f-4648-8dfa-c713217ba07f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1zruDxSVuWlEun43EZ3DKbl5EGN" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$USER_HOME$/WAD_Prax7" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d15f3307-657f-4648-8dfa-c713217ba07f" name="Default Changelist" comment="" />
+      <created>1634918412337</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1634918412337</updated>
+      <workItem from="1634918416424" duration="2908000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="417" y="48" key="FileChooserDialogImpl" timestamp="1634919450791">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="417" y="48" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1634919450791" />
+    <state x="348" y="227" key="com.intellij.ide.util.TipDialog" timestamp="1634918422270">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="348" y="227" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1634918422270" />
+  </component>
+</project>
