@@ -1,0 +1,6 @@
+I hope that I have finished with points 2, 3, 6. On Saturday I will add 7 more posts to our JSON file
+(we need at least 10 objects...), that's point 1. I think the posts structure will remain the same as we
+already have (in the body either text or photo + text).
+I added also some text files with explanations (for any case).
+I don't know, do we need to store our photos for point 4 on internet or we can use our local directory for that.
+For any case, I put them also on my Google Drive and provided links in photos_links.txt
