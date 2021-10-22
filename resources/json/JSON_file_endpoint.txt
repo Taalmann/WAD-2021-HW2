@@ -1,0 +1,14 @@
+"An "exposed JSON endpoint" is a publicly available URL (sometimes with query or path parameters added by you)
+which you can send an HTTP request to and it will return JSON from the remote server that is related to the request
+you sent."  (from https://stackoverflow.com/questions/33005405/how-to-consume-a-json-endpoint Oct 8, 2015)
+
+"Simply put, an endpoint is one end of a communication channel. When an API interacts with another system, the
+touchpoints of this communication are considered endpoints. For APIs, an endpoint can include a URL of a server or
+service. Each endpoint is the location from which APIs can access the resources they need to carry out their function.
+
+APIs work using ‘requests’ and ‘responses.’ When an API requests information from a web application or web server,
+it will receive a response. The place that APIs send requests and where the resource lives, is called an endpoint."
+(from https://smartbear.com/learn/performance-monitoring/api-endpoints/)
+
+Our bin is available at https://api.npoint.io/d6d2f9f973bc3db141eb
+https://api.npoint.io/d6d2f9f973bc3db141eb

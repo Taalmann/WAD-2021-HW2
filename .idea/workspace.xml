@@ -20,7 +20,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$USER_HOME$/WAD_Prax7" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../WAD_Prax7" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -32,7 +32,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1634918412337</updated>
-      <workItem from="1634918416424" duration="7049000" />
+      <workItem from="1634918416424" duration="10198000" />
     </task>
     <servers />
   </component>
