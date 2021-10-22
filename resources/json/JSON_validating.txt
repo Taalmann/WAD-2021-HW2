@@ -1,0 +1,8 @@
+For our JSON file validating I used https://jsonlint.com/ and got the answer "Valid JSON".
+To experiment with different tools, I also validated our JSON file on
+  1) https://jsonformatter.curiousconcept.com/#
+     and got the answer "VALID (RFC 8259)".This validator is not displaying JSON file's line numbers. We can here
+     format our JSON file, also.
+  2) https://codebeautify.org/jsonvalidator and had also the answer "Valid JSON". https://codebeautify.org can be used
+     also as JSON beautifier. And it has a useful JSON code Tree Viewer.
+  3) https://beautifytools.com and got the same answer. This tool has JSON beautifier option,also.
