@@ -11,4 +11,3 @@ it will receive a response. The place that APIs send requests and where the reso
 (from https://smartbear.com/learn/performance-monitoring/api-endpoints/)
 
 Our bin is available at https://api.npoint.io/d6d2f9f973bc3db141eb
-https://api.npoint.io/d6d2f9f973bc3db141eb
