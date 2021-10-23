@@ -1,81 +1,71 @@
 [
   {
     "postId": 1,
-    "avatar": "default_avatar.png",
+    "user": 1,
     "date": "Aug 19,2021 15:00",
-    "text": "Hiiumaa... Dagö... the second largest island in Estonia",
-    "thumbUp": "thumb_up.png"
+    "text": "Hiiumaa... Dagö... the second largest island in Estonia"
   },
   {
     "postId": 2,
-    "avatar": "default_avatar.png",
+    "user": 1,
     "date": "Aug 19,2021 15:30",
-    "photo": "Kassari_sääretirp.jpg",
-    "text": "Hiiumaa: Kassari sääretirp",
-    "thumbUp": "thumb_up.png"
+    "photo": "https://drive.google.com/file/d/1a-a8kol14Dl2Hav7AaDJK_X6Bjl2A4jX/view?usp=sharing",
+    "text": "Hiiumaa: Kassari sääretirp"
   },
   {
     "postId": 3,
-    "avatar": "default_avatar.png",
+    "user": 1,
     "date":"Aug 19,2021 15:59",
-    "photo": "Kassari_2.jpg",
-    "text": "Hiiumaa: Kassari...alvars...where see and land meet...",
-    "thumbUp":"thumb_up.png"
+    "photo": "https://drive.google.com/file/d/1UlaJLBodrK37tSLkRXR2K2PsCLcl7DLy/view?usp=sharing",
+    "text": "Hiiumaa: Kassari...alvars...where see and land meet..."
   },
   {
     "postId": 4,
-    "avatar": "default_avatar.png",
+    "user": 1,
     "date":"Aug 19,2021 15:59",
-    "photo": "Kassari.jpg",
-    "text": "Hiiumaa: Kassari...alvars...",
-    "thumbUp":"thumb_up.png"
+    "photo": "https://drive.google.com/file/d/1wmVVBJ4W5wzSzL57SRdZV9RZ0Zgcgqrz/view?usp=sharing",
+    "text": "Hiiumaa: Kassari...alvars..."
   },
   {
     "postId": 5,
-    "avatar": "default_avatar.png",
+    "user": 1,
     "date":"Aug 20,2021 11:00",
-    "photo": "Suuremõisa.jpg",
-    "text": "Hiiumaa: Suuremõisa...Grossenhof...and legendary Otto Reinhold Ludvig von Ungern-Sternberg...",
-    "thumbUp":"thumb_up.png"
+    "photo": "https://drive.google.com/file/d/1A1spxr9FIwtHm83ba8EiKjQx0ZkbbyZp/view?usp=sharing",
+    "text": "Hiiumaa: Suuremõisa...Grossenhof...and legendary Otto Reinhold Ludvig von Ungern-Sternberg..."
   },
   {
     "postId": 6,
-    "avatar": "default_avatar.png",
+    "user": 1,
     "date":"Aug 21,2021 12:00",
-    "photo": "Kõpu_tuletorn.jpg",
-    "text": "Hiiumaa: Baltic lights... Kõpu...",
-    "thumbUp":"thumb_up.png"
+    "photo": "https://drive.google.com/file/d/1G_Dm-Cr7hVT3-DPkROIv3bERO71MFdIz/view?usp=sharing",
+    "text": "Hiiumaa: Baltic lights... Kõpu..."
   },
   {
     "postId": 7,
-    "avatar": "default_avatar.png",
+    "user": 1,
     "date":"Aug 21,2021 17:08",
-    "photo": "Tahkuna_tuletorn.jpg",
-    "text": "Hiiumaa: Baltic lights... Tahkuna...",
-    "thumbUp":"thumb_up.png"
+    "photo": "https://drive.google.com/file/d/1WiR1wBS8sgiI5INB2M5RZ4hhgf1uTtfj/view?usp=sharing",
+    "text": "Hiiumaa: Baltic lights... Tahkuna..."
   },
   {
     "postId": 8,
-    "avatar": "default_avatar.png",
+    "user": 1,
     "date":"Aug 22,2021 11:00",
-    "photo": "Vanajõgi.jpg",
-    "text": "Hiiumaa: Tahkuna Nature Reserve... Vanajõgi...",
-    "thumbUp":"thumb_up.png"
+    "photo": "https://drive.google.com/file/d/162s0gCXKF4yhPnlxVpH0jNsAtRKPlB9U/view?usp=sharing",
+    "text": "Hiiumaa: Tahkuna Nature Reserve... Vanajõgi..."
   },
   {
     "postId": 9,
-    "avatar": "default_avatar.png",
+    "user": 1,
     "date":"Aug 22,2021 13:00",
-    "photo": "Tihu_looduskaitseala.jpg",
-    "text": "Hiiumaa: Tahkuna Nature Reserve...",
-    "thumbUp":"thumb_up.png"
+    "photo": "https://drive.google.com/file/d/1CmFJsAGbFXFoNaUt6UKIsyXB_P-fFc7E/view?usp=sharing",
+    "text": "Hiiumaa: Tahkuna Nature Reserve..."
   },
   {
     "postId": 10,
-    "avatar": "default_avatar.png",
+    "user": 1,
     "date":"Aug 23,2021 22:15",
-    "photo": "Luidja.jpg",
-    "text": "Hiiumaa... an island surrounded by see... see, a giver and a taker...",
-    "thumbUp":"thumb_up.png"
+    "photo": "https://drive.google.com/file/d/1Vt7xhOptJQOD3RbrNFqrl-7yVtTFzoYi/view?usp=sharing",
+    "text": "Hiiumaa... an island surrounded by see... see, a giver and a taker..."
   }
 ]

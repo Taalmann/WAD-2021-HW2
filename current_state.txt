@@ -1,5 +1,4 @@
 I hope that I have finished with points 1, 2, 3, 6. If something isn't ok, pls let me know.
 I added also some text files with explanations (for any case).
-I don't know, do we need to store our photos for point 4 on internet or we can use our local directory for that.
-For any case, I put them also on my Google Drive and provided links in photos_links.txt
+I put the photos on my Google Drive and provided links in photos_links.txt
 Our JSON bin is available at https://api.npoint.io/d6d2f9f973bc3db141eb
