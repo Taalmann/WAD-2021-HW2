@@ -1,4 +1,0 @@
-I hope that I have finished with points 1, 2, 3, 6. If something isn't ok, pls let me know.
-I added also some text files with explanations (for any case).
-I put the photos on my Google Drive and provided links in photos_links.txt
-Our JSON bin is available at https://api.npoint.io/d6d2f9f973bc3db141eb
