@@ -1,6 +1,7 @@
 [
   {
     "postId": 1,
+    "user": 1,
     "avatar": "default_avatar.png",
     "date": "Aug 19,2021 15:00",
     "text": "Hiiumaa... Dagö... the second largest island in Estonia",
@@ -8,6 +9,7 @@
   },
   {
     "postId": 2,
+    "user": 1,
     "avatar": "default_avatar.png",
     "date": "Aug 19,2021 15:30",
     "photo": "https://ritumsc.github.io/images/WAD2021/Kassari_sääretirp.jpg",
@@ -16,6 +18,7 @@
   },
   {
     "postId": 3,
+    "user": 1,
     "avatar": "default_avatar.png",
     "date":"Aug 19,2021 15:59",
     "photo": "https://ritumsc.github.io/images/WAD2021/Kassari_2.jpg",
@@ -24,6 +27,7 @@
   },
   {
     "postId": 4,
+    "user": 1,
     "avatar": "default_avatar.png",
     "date":"Aug 19,2021 15:59",
     "photo": "https://ritumsc.github.io/images/WAD2021/Kassari.jpg",
@@ -32,6 +36,7 @@
   },
   {
     "postId": 5,
+    "user": 1,
     "avatar": "default_avatar.png",
     "date":"Aug 20,2021 11:00",
     "photo": "https://ritumsc.github.io/images/WAD2021/Suuremõisa.jpg",
@@ -40,6 +45,7 @@
   },
   {
     "postId": 6,
+    "user": 1,
     "avatar": "default_avatar.png",
     "date":"Aug 21,2021 12:00",
     "photo": "https://ritumsc.github.io/images/WAD2021/Kõpu_tuletorn.jpg",
@@ -48,6 +54,7 @@
   },
   {
     "postId": 7,
+    "user": 1,
     "avatar": "default_avatar.png",
     "date":"Aug 21,2021 17:08",
     "photo": "https://ritumsc.github.io/images/WAD2021/Tahkuna_tuletorn.jpg",
@@ -56,6 +63,7 @@
   },
   {
     "postId": 8,
+    "user": 1,
     "avatar": "default_avatar.png",
     "date":"Aug 22,2021 11:00",
     "photo": "https://ritumsc.github.io/images/WAD2021/Vanajõgi.jpg",
@@ -64,6 +72,7 @@
   },
   {
     "postId": 9,
+    "user": 1,
     "avatar": "default_avatar.png",
     "date":"Aug 22,2021 13:00",
     "photo": "https://ritumsc.github.io/images/WAD2021/Tihu_looduskaitseala.jpg",
@@ -72,6 +81,7 @@
   },
   {
     "postId": 10,
+    "user": 1,
     "avatar": "default_avatar.png",
     "date":"Aug 23,2021 22:15",
     "photo": "https://ritumsc.github.io/images/WAD2021/Luidja.jpg",
