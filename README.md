@@ -1,21 +1,5 @@
 # WAD-2021-HW2
-
  
-Taalmann/WAD-2021-HW2Private
- Unwatch 1
- Star0
- Fork0
-Code
-Issues
-Pull requests
-Actions
-Projects
-Security
-Insights
-Settings
-WAD-2021-HW2/inmain
-Cancel changes
- Edit file
 Homework 2
 
 ## Description for work on tasks 1, 2, 3 and 6
