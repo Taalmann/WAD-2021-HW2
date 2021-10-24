@@ -2,7 +2,7 @@
 // Load posts using from hardcoded json source
 function loadPosts() {$(function(){
   // jsonSource = "https://api.npoint.io/d6d2f9f973bc3db141eb"
-  jsonSource = "/resources/json/posts.json"
+  jsonSource = "./resources/json/posts.json"
 
   $.getJSON(jsonSource).done(
     function( json ) {
