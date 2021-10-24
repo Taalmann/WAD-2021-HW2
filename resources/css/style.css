@@ -295,17 +295,22 @@ input[type=submit]{
 
 .menu-info {
 
-  display: flex;
-  position: fixed;
-  right: 0;
-  top: 0px;
-  height: 35px;
-  width: 200px;
-  z-index: 1;
-  background-color: #fff;
-  
+    display: flex;
+    position: fixed;
+    right: 0;
+    top: 0px;
+    height: 35px;
+    width: 200px;
+    z-index: 1;
+    background-color: #fff;
+    box-shadow: 1px 1px gray;
+    border-radius: 1px;
+    text-align: justify;
+
 }
 
 .hidden {
+    
   display: none;
+    
 }
